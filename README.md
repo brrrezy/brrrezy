@@ -82,8 +82,6 @@ printf "⚡ Curious mind, sharp logic\n🔥 Solving problems one line at a time\
 
 ## 💻 Projects that are not avilable for now :
 - [Smart HVAC Model] —  Predict Temprature and Humidity (its kinda hot - the climate)
-- [Disable Windows Tasks] — Dont let Windows haunt your system (use linux)
-- [Diet -GPT] - Eat your vegetables (and touch some grass)
 
 </br>
 
