@@ -2,9 +2,9 @@
 <!---[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)--->
 
 
-#  Hey There👋 What's up?
+#  👋 Hey There, What's up?
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
 
 </br>
 </br>
@@ -13,30 +13,36 @@
   <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+cool+stuff+%7C+AI+%7C+Web+%7C+Automation" alt="Typing SVG" />
 </p>
 
-##    **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** 🚀 About Me    
+</br>
+
+## 🚀 About Me    
 <h3 align="center" >
-Data Science || Computer Science and Engineering || Python || Business Analytics || Development
+Data Science - AI/ML || Computer Science and Engineering || Python || Business Analytics || Development
 </h3>
 
-</br>I build practical, automated solutions — web apps, tiny ML experiments, and developer tools. 
-I like clean code, good docs, and automations that save time.
-<img align="right" alt="Coding" height="250" width="300"
- src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</br>
+<img align="right" alt="Coding" height="200" width=""
+ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I’m currently building: performant web apps + automation pipelines ,xyzz..
-- 💡 **Tech Explorer:** Passionate about software development, AI, and open-source.
-- 🛠️ **Languages & Tools:** Python, JavaScript, TypeScript, React, Node.js, Docker, Git, and more.
-- 🌱 **Currently Learning:** Machine learning, cloud computing, and DevOps.
-- 🤝 **Collaborating On:** Cool projects and hackathons!
-- ⚡ **Fun Fact:** I love automating things and making life easier with code.
+- 🔭 Building data apps and ML models that don’t crash (fingers crossed).
+- 💡 Tech Explorer: Obsessed with AI, data, and messy datasets.
+- 🛠️ Languages & Tools: Python, SQL, Pandas, NumPy, Power BI
+- 🌱 Currently Learning: Advanced ML and not breaking stuff while experimenting.
+- ⚡ Fun Fact: I automate boring tasks to be lazy productively.
 
+</br>
 
-## Quick peek
+## 👀 Quick peek 
 ```bash
 # whoami
-echo "Amar — coder, tinkerer, lifelong-learner"
+echo "Shivanshu ✨ — coder, data wizard, lifelong learner"
+
 # top skills
-ls -la ~/skills | grep -E "python|data science|AIML|docker"
+ls ~/skills | grep -E "python|aiml|sql|data science|analytics"
+
+# vibe check
+printf "⚡ Curious mind, sharp logic\n🔥 Solving problems one line at a time\n🌱 Growing every single day\n"
+
 ```
 
 ---
@@ -44,76 +50,76 @@ ls -la ~/skills | grep -E "python|data science|AIML|docker"
 ### 🛠️ Skills & Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="sql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="aftereffects" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Create.+Innovate.;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Create.+Innovate.;Tech+Enthusiast+%F0%9F%94%A5;Keep+Learning+!" alt="Typing SVG" />
 </p>
 
 
 
-## Projects that are not avilable for now :
-- [Smart HVAC Model] — Had to private the Repository because of some stuff  
-- [Smart Motion Detection Security Cam] — Welllll 🙃
+## 💻 Projects that are not avilable for now :
+- [Smart HVAC Model] —  Predict Temprature and Humidity (its kinda hot - the climate)
+- [Disable Windows Tasks] — Dont let Windows haunt your system (use linux)
+- [Diet -GPT] - Eat your vegetables (and touch some grass)
+
+</br>
+
+>"Dream - Belive - Achieve" 🚀
+
+</br>
+
 
 ---
-
-
-> "Ship small, learn fast, iterate." 🚀
-
 
 ### 📈 GitHub Stats
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar03ete&show_icons=true&theme=radical" alt="Amar03ete's GitHub stats" /> 
-<img align="right" height="190" width="220" src="https://media.tenor.com/0hFPh2AGi_wAAAAM/cat-computer.gif"  />
-</br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar03ete&show_icons=true&theme=radical" alt="GitHub Streak" alt="Amar03ete's GitHub stats" align="right" />
- 
+<p align="left">
+<img align="" height="190" width="220" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brrrezy&show_icons=true&theme=radical" alt="GitHub Streak" alt="brrrezy's GitHub stats" align="left" />
 </p>
 
 ---
-
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarpandey01/)
-[![Github](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://github.com/Amar03ete)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=flat&logo=Firefox&logoColor=white)](https://amar03.vercel.app/)
+<a href="https://linkedin.com/in/srivastavashivanshu/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/brrrezy" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white" height="30" alt="Instagram"/>
+</a>
+<a href="https://portfolio-shivanshu-srivastava.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-ff5722?style=flat&logo=Firefox&logoColor=white" height="30" alt="Portfolio"/>
+</a>
+
+</br>
+</br>
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
 
 ![MasterHead ](https://raw.githubusercontent.com/robiot/robiot/main/jump.gif )
