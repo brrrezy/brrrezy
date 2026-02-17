@@ -108,7 +108,7 @@ printf "⚡ Curious mind, sharp logic\n🔥 Solving problems one line at a time\
 <a href="https://github.com/brrrezy" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white" height="30" alt="Instagram"/>
 </a>
-<a href="https://portfolio-shivanshu-srivastava.vercel.app" target="_blank">
+<a href="https://shivanshusr.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-ff5722?style=flat&logo=Firefox&logoColor=white" height="30" alt="Portfolio"/>
 </a>
 
