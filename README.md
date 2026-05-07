@@ -1,5 +1,6 @@
+
+
 <div align="center">
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
 
 [![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://github.com/brrrezy)
 
@@ -73,13 +74,12 @@ I am a Developer focused on **financial applications**, **data analytics**, and 
 
 ### 📈 GitHub Intelligence
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brrrezy&show_icons=true&theme=radical&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" alt="GitHub Streak" />
-</p>
+  <img height="190" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif"  />
+</div>
 
 <div align="center">
-  <img align="" height="190" width="220" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=brrrezy&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrrezy&layout=compact&theme=radical&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Top Langs" />
 </div>
 
