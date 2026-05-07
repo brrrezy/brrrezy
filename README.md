@@ -1,5 +1,7 @@
 <div align="center">
 
+[![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://github.com/brrrezy)
+
 # 👋 Hello, I'm Shivanshu
 **Quantitative Developer | AI Engineer | Full-Stack Architect**
 
