@@ -79,10 +79,6 @@ I am a Developer focused on **financial applications**, **data analytics**, and 
   <img height="190" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrrezy&layout=compact&theme=radical&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Top Langs" />
-</div>
-
 ---
 
 ### 🌐 Connect & Network
