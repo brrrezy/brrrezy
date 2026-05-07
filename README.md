@@ -1,22 +1,25 @@
 <div align="center">
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
 
 [![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://github.com/brrrezy)
 
 # 👋 Hello, I'm Shivanshu
-**Quantitative Developer | AI Engineer | Full-Stack Architect**
+**Full-Stack Developer | Data Science & AI Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Institutional-Grade+Trading+Terminals;Engineering+AI+Behavioral+Coaches;Designing+High-Performance+Financial+Systems;Full-Stack+Architectural+Excellence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Developing+Data-Driven+Trading+Tools;Building+AI-Integrated+Applications;Exploring+Financial+Data+Systems;Full-Stack+Web+Development)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ### 🚀 About Me
-I am a Full-stack Developer specializing in **AI-powered financial systems**, **quantitative trading infrastructure**, and **intelligent productivity platforms**. My work focuses on bridging the gap between complex quantitative analytics and high-fidelity product design.
+<img align="right" alt="Coding" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 **Currently Building:** [TradeFlow OS 2.0](https://thetradeflow.vercel.app) — A premium intelligence terminal for high-performance traders.
-- ⚡ **Core Expertise:** Low-latency architectures, Quantitative Stock Screening, and LLM-integrated behavioral analytics.
-- 🛠️ **Systems Thinking:** I prioritize automation, scalable data architecture, and minimalist, high-end user experiences.
+I am a Developer focused on **financial applications**, **data analytics**, and **AI integrations**. I enjoy building tools that solve practical problems through clean code and functional design.
+
+- 🔭 **Currently Building:** [TradeFlow OS 2.0](https://thetradeflow.vercel.app) — A trading dashboard with real-time analytics and data visualization.
+- ⚡ **Core Interests:** Data-driven architectures, Stock Screening tools, and LLM applications.
+- 🛠️ **Approach:** I value automation, clear documentation, and user-focused development.
 
 ---
 
@@ -24,7 +27,7 @@ I am a Full-stack Developer specializing in **AI-powered financial systems**, **
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[TradeFlow OS 2.0](https://thetradeflow.vercel.app)** | Institutional-grade trading terminal with AI coaching, real-time analytics, and P&L heatmaps. | Next.js 15, FastAPI, MongoDB |
+| **[TradeFlow OS 2.0](https://thetradeflow.vercel.app)** | Trading dashboard with real-time analytics, P&L tracking, and data insights. | Next.js 15, FastAPI, MongoDB |
 | **[NSE Momentum Burst](https://github.com/brrrezy/NSE-Breakout-Monitor)** | Automated breakout detection engine for NSE stocks with real-time Telegram alerting. | Python, GitHub Actions |
 | **[NSE Swing Screener](https://findswingstocks.up.railway.app)** | Quant stock screening terminal processing 2,600+ stocks under 60s with VCP detection. | FastAPI, SQLite, Railway |
 | **[DietGPT](https://fixyourdiet.vercel.app)** | AI nutritionist platform with persistent contextual memory and smart meal tracking. | Flask, Firebase, LangChain |
@@ -75,6 +78,7 @@ I am a Full-stack Developer specializing in **AI-powered financial systems**, **
 </p>
 
 <div align="center">
+  <img align="" height="190" width="220" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif"  />
   <img src="https://github-readme-stats.vercel.app/api?username=brrrezy&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrrezy&layout=compact&theme=radical&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Top Langs" />
 </div>
@@ -98,6 +102,10 @@ I am a Full-stack Developer specializing in **AI-powered financial systems**, **
 <br/>
 
 <div align="center">
-  <i>"Code is the lever for building systems that transcend human limitation."</i>
+  <i>"Ship small, learn fast, iterate."</i>
 </div>
+
+<br/>
+
+![MasterHead ](https://raw.githubusercontent.com/robiot/robiot/main/jump.gif )
 
