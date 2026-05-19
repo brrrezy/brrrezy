@@ -28,7 +28,7 @@ I am a Developer focused on **financial applications**, **data analytics**, and 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[TradeFlow OS 2.0](https://thetradeflow.vercel.app)** | Trading dashboard with real-time analytics, P&L tracking, and data insights. | Next.js 15, FastAPI, MongoDB |
+| **[TradeFlow](https://thetradeflow.vercel.app)** | Trading dashboard with real-time analytics, P&L tracking, and data insights. | Next.js 15, FastAPI, MongoDB |
 | **[NSE Momentum Burst](https://github.com/brrrezy/NSE-Breakout-Monitor)** | Automated breakout detection engine for NSE stocks with real-time Telegram alerting. | Python, GitHub Actions |
 | **[NSE Swing Screener](https://findswingstocks.up.railway.app)** | Quant stock screening terminal processing 2,600+ stocks under 60s with VCP detection. | FastAPI, SQLite, Railway |
 | **[DietGPT](https://fixyourdiet.vercel.app)** | AI nutritionist platform with persistent contextual memory and smart meal tracking. | Flask, Firebase, LangChain |
